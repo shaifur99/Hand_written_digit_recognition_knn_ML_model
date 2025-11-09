@@ -73,18 +73,6 @@ Example Results (Self-created handwritten digits):
 - Implementing **Convolutional Neural Networks (CNNs)** for improved accuracy  
 - Building a web-based or mobile app interface for digit recognition  
 
----
 
-## 📷 Screenshots
-(Add screenshots of training results, accuracy plots, and handwritten digit predictions here)
 
----
-
-## 🔗 GitHub & LinkedIn
-- GitHub Repo: [Your Repo Link]  
-- LinkedIn Post: [Your LinkedIn Link]  
-
----
-
-⭐ If you found this project helpful, don't forget to give it a star!
 
